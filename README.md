@@ -23,7 +23,7 @@ result_operacoes.operacoes()
 ```
 
 ## Author
-My_name
+Bruno C
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
